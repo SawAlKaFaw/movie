@@ -1,6 +1,6 @@
 # movie
 
-A new Flutter project.
+A new Flutter project.This app is used dio,riverpod notifier, sqflite storage.
 
 ## Getting Started
 
